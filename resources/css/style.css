@@ -1,0 +1,42 @@
+body {
+  background-color: Black;
+  text-align: center;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+a.coming-soon {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+video.main-video {
+  align-content: center;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+h3 {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+img {
+  align-content: center;
+}
+
+a.coming-soon {
+  text-align: right;
+  color: gray;
+}
