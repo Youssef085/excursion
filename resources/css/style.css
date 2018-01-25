@@ -34,9 +34,11 @@ h3.main {
 
 img {
   align-content: center;
+  margin: 40px;
 }
 
 h3.copyright {
     text-align: right;
     color: gray;
+    font-family: INITIAL;
 }
